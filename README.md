@@ -36,9 +36,6 @@ Adjusted 'Cogs' column to `NUMERIC(10,2)` for accurate decimal calculations.
 - Verified that all identified missing values in critical columns were resolved.
 - Confirmed dataset readiness for analysis and reporting.
 
-**Outcome**   
-The cleaned dataset was validated and structured for accurate exploratory data analysis, KPI reporting, and dashboard creation.
-
 **Key Insights**
 - The Electronics category generated the highest total revenue despite not having the highest transaction volume, indicating stronger sales of higher-priced products. A moderate performance difference is observed across the categories.
 - Sales peaked in December 2022 and December 2023, highlighting clear seasonality in customer purchasing patterns.
@@ -50,3 +47,6 @@ The cleaned dataset was validated and structured for accurate exploratory data a
 - Prepare operational capacity and targeted marketing campaigns ahead of December to leverage seasonal demand.
 - Maintain inclusive marketing strategies given balanced gender participation while optimizing category-specific campaigns.
 - Strengthen operational readiness during evening peak hours and implement targeted promotions to improve afternoon sales performance.
+
+**Outcome**   
+The project analyzed transactions and revenue data to identify the top-performing category, customer purchasing patterns, and seasonal trends. The resulting SQL queries enabled accurate KPI reporting and supported data-driven decisions to optimize inventory, marketing campaigns, and revenue strategies.
