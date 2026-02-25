@@ -1,10 +1,10 @@
-**PROJECT TITLE**
+**PROJECT TITLE** 
 SQL Retail Sales Analysis
 
 **Problem statement**
 Analyse retail sales database to perform exploratory data analysis, and answer specific business questions through SQL queries after cleaning the dataset. 
 
-**Tools Used** 
+**Tools Used**  
 SQL(PostgreSQL)
 
 **Dataset Overview**
@@ -36,7 +36,7 @@ Adjusted 'Cogs' column to `NUMERIC(10,2)` for accurate decimal calculations.
 - Verified that all identified missing values in critical columns were resolved.
 - Confirmed dataset readiness for analysis and reporting.
 
-**Outcome**
+**Outcome**   
 The cleaned dataset was validated and structured for accurate exploratory data analysis, KPI reporting, and dashboard creation.
 
 **Key Insights**
